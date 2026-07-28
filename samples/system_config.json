@@ -1,0 +1,7 @@
+{
+  "firewall_enabled": true,
+  "mfa_enabled": false,
+  "minimum_password_length": 8,
+  "default_admin_enabled": true,
+  "automatic_updates_enabled": false
+}
